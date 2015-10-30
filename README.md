@@ -17,3 +17,6 @@
 10. $ git add  - adicionar arquivos ao track.
 11. $ git commit -m "Primeiro Commit"
 12. $ git log - registo de commit.
+13. $ git remote add origin https://github.com/geltoncruz/AulaC49725.git
+14. $ git push -u origin master
+
