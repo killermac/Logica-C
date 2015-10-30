@@ -5,11 +5,14 @@
 
 # COMANDOS GIT E CONFIGURAÇÃO DE AMBIENTE
 
-1. $ cd -  navegar por diretório
-2. $ mkdir git
-3. $ cd git
-4. $ mkdir c
-5. $ cd c
-6. $ git config --global user.name "Gelton Cruz"
-7. $ git config --global user.email "gelton@midiaplural.com.br"
-8. $ git init 
+01. $ cd -  navegar por diretório
+02. $ mkdir git
+03. $ cd git
+04. $ mkdir c
+05. $ cd c
+06. $ git config --global user.name "Gelton Cruz"
+07. $ git config --global user.email "gelton@midiaplural.com.br"
+08. $ git init 
+09. $ git status  - verificar status de track.
+10. $ git add  - adicionar arquivos ao track.
+11. $ git commit -m "Primeiro Commit"
