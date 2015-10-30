@@ -16,3 +16,4 @@
 09. $ git status  - verificar status de track.
 10. $ git add  - adicionar arquivos ao track.
 11. $ git commit -m "Primeiro Commit"
+12. $ git log - registo de commit.
