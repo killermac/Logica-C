@@ -1,13 +1,13 @@
-algoritmo "Faça um algoritmo para ler uma matriz 3X3 real e imprimir a soma dos elementos da Diagonal principal."
-// Função :
+algoritmo "FaÃ§a um algoritmo para ler uma matriz 3X3 real e imprimir a soma dos elementos da Diagonal principal."
+// FunÃ§Ã£o :
 // Autor :
 // Data : 4/11/2015
-// Seção de Declarações
+// SeÃ§Ã£o de DeclaraÃ§Ãµes
 var
 mat:vetor[0..2,0..2] de inteiro
 soma,i,j:inteiro
 inicio
-// Seção de Comandos
+// SeÃ§Ã£o de Comandos
 para i de 0 ate 2 faca
    para j de 0  ate 2 faca
       leia(mat[i,j])
@@ -26,4 +26,5 @@ para i de 0 ate 2 faca
       fimse
    fimpara
 fimpara
+escreval("O resultado Ã©:",soma)
 fimalgoritmo
